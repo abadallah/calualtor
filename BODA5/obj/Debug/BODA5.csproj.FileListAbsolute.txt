@@ -1,0 +1,25 @@
+C:\Users\boda\Desktop\New folder\BODA5\BODA5\bin\Debug\BODA5.exe.config
+C:\Users\boda\Desktop\New folder\BODA5\BODA5\bin\Debug\BODA5.exe
+C:\Users\boda\Desktop\New folder\BODA5\BODA5\bin\Debug\BODA5.pdb
+C:\Users\boda\Desktop\New folder\BODA5\BODA5\obj\Debug\BODA5.csprojResolveAssemblyReference.cache
+C:\Users\boda\Desktop\New folder\BODA5\BODA5\obj\Debug\BODA5.Form1.resources
+C:\Users\boda\Desktop\New folder\BODA5\BODA5\obj\Debug\BODA5.Properties.Resources.resources
+C:\Users\boda\Desktop\New folder\BODA5\BODA5\obj\Debug\BODA5.csproj.GenerateResource.Cache
+C:\Users\boda\Desktop\New folder\BODA5\BODA5\obj\Debug\BODA5.exe
+C:\Users\boda\Desktop\New folder\BODA5\BODA5\obj\Debug\BODA5.pdb
+D:\my work\BODA5\BODA5\bin\Debug\BODA5.exe.config
+D:\my work\BODA5\BODA5\obj\Debug\BODA5.exe
+D:\my work\BODA5\BODA5\obj\Debug\BODA5.pdb
+E:\boda\شغل المركز\برمجه\my work\BODA5\BODA5\bin\Debug\BODA5.exe.config
+E:\boda\شغل المركز\برمجه\my work\BODA5\BODA5\obj\Debug\BODA5.exe
+E:\boda\شغل المركز\برمجه\my work\BODA5\BODA5\obj\Debug\BODA5.pdb
+F:\boda\شغل المركز\برمجه\my work\BODA5\BODA5\bin\Debug\BODA5.exe.config
+F:\boda\شغل المركز\برمجه\my work\BODA5\BODA5\bin\Debug\BODA5.exe
+F:\boda\شغل المركز\برمجه\my work\BODA5\BODA5\bin\Debug\BODA5.pdb
+F:\boda\شغل المركز\برمجه\my work\BODA5\BODA5\obj\Debug\BODA5.csprojAssemblyReference.cache
+F:\boda\شغل المركز\برمجه\my work\BODA5\BODA5\obj\Debug\BODA5.Form1.resources
+F:\boda\شغل المركز\برمجه\my work\BODA5\BODA5\obj\Debug\BODA5.Properties.Resources.resources
+F:\boda\شغل المركز\برمجه\my work\BODA5\BODA5\obj\Debug\BODA5.csproj.GenerateResource.cache
+F:\boda\شغل المركز\برمجه\my work\BODA5\BODA5\obj\Debug\BODA5.csproj.CoreCompileInputs.cache
+F:\boda\شغل المركز\برمجه\my work\BODA5\BODA5\obj\Debug\BODA5.exe
+F:\boda\شغل المركز\برمجه\my work\BODA5\BODA5\obj\Debug\BODA5.pdb
